@@ -102,7 +102,7 @@ export default function Footer() {
           >
             <motion.div className="space-y-2">
               <h3 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
-                LYUDOMMUNY THOL
+                SOPANHA VOEUN
               </h3>
               <p className="text-gray-400 font-light">
                 Building digital experiences that matter
